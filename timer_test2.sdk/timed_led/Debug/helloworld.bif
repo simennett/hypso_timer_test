@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/hypso/Documents/vivado/timer_test2/timer_test2.sdk/bootloader/Debug/bootloader.elf
+	/home/hypso/Documents/vivado/timer_test2/timer_test2.sdk/timer_test2_wrapper_hw_platform_0/timer_test2_wrapper.bit
+	/home/hypso/Documents/vivado/timer_test2/timer_test2.sdk/hello_no_one/Debug/hello_no_one.elf
+}

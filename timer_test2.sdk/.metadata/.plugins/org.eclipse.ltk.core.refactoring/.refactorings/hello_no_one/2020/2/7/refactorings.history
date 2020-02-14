@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hello_no_one/src/helloworld.c&apos; to &apos;hello_no_one.c&apos;" description="Rename resource &apos;helloworld.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/helloworld.c" name="hello_no_one.c" stamp="1581598607169" updateReferences="true"/>
+</session>

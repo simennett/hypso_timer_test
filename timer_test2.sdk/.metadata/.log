@@ -18887,3 +18887,6 @@ Don't forget to modify blconfig.h to reflect the offset where your SREC image re
 
 !ENTRY com.xilinx.sdk.utils 1 0 2020-02-14 16:04:16.012
 !MESSAGE Updating toolusage
+
+!ENTRY com.xilinx.sdk.utils 1 0 2020-02-14 17:47:18.434
+!MESSAGE Executed Webtalk command

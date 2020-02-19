@@ -1,4 +1,4 @@
-11:18:32 **** Build of configuration Debug for project timer_test2 ****
+15:28:54 **** Auto Build of configuration Debug for project timer_test2 ****
 make pre-build main-build 
 a9-linaro-pre-build-step
  
@@ -24,5 +24,5 @@ arm-none-eabi-size timer_test2.elf  |tee "timer_test2.elf.size"
 Finished building: timer_test2.elf.size
  
 
-11:18:32 Build Finished (took 265ms)
+15:28:54 Build Finished (took 267ms)
 

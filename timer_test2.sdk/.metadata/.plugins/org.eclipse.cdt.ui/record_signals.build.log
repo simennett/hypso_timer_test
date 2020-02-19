@@ -1,0 +1,8 @@
+15:34:40 **** Auto Build of configuration Debug for project record_signals ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+
+15:34:41 Build Finished (took 72ms)
+

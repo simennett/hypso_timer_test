@@ -157,3 +157,16 @@
 16:04:16 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o /media/hypso/3472-745B/BOOT.bin
 16:04:16 INFO  : Creating new bif file /media/hypso/3472-745B/output.bif
 16:04:18 INFO  : Bootgen command execution is done.
+15:27:41 INFO  : Registering command handlers for SDK TCF services
+15:27:43 INFO  : Launching XSCT server: xsct -n -interactive /home/hypso/Desktop/github/hypso_timer_test/timer_test2.sdk/temp_xsdb_launch_script.tcl
+15:27:46 INFO  : XSCT server has started successfully.
+15:27:47 INFO  : Successfully done setting XSCT server connection channel  
+15:27:47 INFO  : Successfully done setting SDK workspace  
+15:27:47 INFO  : Processing command line option -hwspec /home/hypso/Desktop/github/hypso_timer_test/timer_test2.sdk/timer_test2_wrapper.hdf.
+15:44:07 INFO  : Launching XSCT server: xsct -n -interactive /home/hypso/Desktop/github/hypso_timer_test/timer_test2.sdk/temp_xsdb_launch_script.tcl
+15:44:10 INFO  : XSCT server has started successfully.
+15:44:10 INFO  : Successfully done setting XSCT server connection channel  
+15:44:10 INFO  : Successfully done setting SDK workspace  
+15:44:16 INFO  : Registering command handlers for SDK TCF services
+15:44:16 INFO  : Processing command line option -hwspec /home/hypso/Desktop/github/hypso_timer_test/timer_test2.sdk/timer_test2_wrapper.hdf.
+15:44:18 INFO  : Checking for hwspec changes in the project timer_test2_wrapper_hw_platform_2.

@@ -17,7 +17,7 @@ src/qspi.o src/qspi.o: ../src/qspi.c ../src/qspi.h ../src/fsbl.h \
  ../../bootloader_bsp/ps7_cortexa9_0/include/xstatus.h \
  ../../bootloader_bsp/ps7_cortexa9_0/include/xil_assert.h \
  ../src/fsbl_debug.h \
- /home/hypso/Documents/vivado/timer_test2/timer_test2.sdk/timer_test2_wrapper_hw_platform_0/ps7_init.h \
+ /home/hypso/Desktop/github/hypso_timer_test/timer_test2.sdk/timer_test2_wrapper_hw_platform_0/ps7_init.h \
  ../src/image_mover.h \
  ../../bootloader_bsp/ps7_cortexa9_0/include/xqspips_hw.h \
  ../../bootloader_bsp/ps7_cortexa9_0/include/xqspips.h \
@@ -65,7 +65,7 @@ src/qspi.o src/qspi.o: ../src/qspi.c ../src/qspi.h ../src/fsbl.h \
 
 ../src/fsbl_debug.h:
 
-/home/hypso/Documents/vivado/timer_test2/timer_test2.sdk/timer_test2_wrapper_hw_platform_0/ps7_init.h:
+/home/hypso/Desktop/github/hypso_timer_test/timer_test2.sdk/timer_test2_wrapper_hw_platform_0/ps7_init.h:
 
 ../src/image_mover.h:
 
